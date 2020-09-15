@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL_tst_isim_beh.exe" -prj "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL_tst_beh.prj" "work.MUL_tst" "work.glbl" 

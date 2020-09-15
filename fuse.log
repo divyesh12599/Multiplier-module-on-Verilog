@@ -1,0 +1,33 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL_tst_isim_beh.exe" -prj "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL_tst_beh.prj" "work.MUL_tst" "work.glbl" 
+ISim P.40xd (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../../../../../../Xilinx/14.3/ISE_DS/PIPO/PIPO.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../PIPO_dec/PIPO_dec.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../PIPO_clr/PIPO_clr.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../COMP/COMP.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../ADDER/ADDER.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../MUL_datapath/MUL_datapath.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/../MUL_controlpath/MUL_controlpath.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL.v" into library work
+Analyzing Verilog file "C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL_tst.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.3/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PIPO
+Compiling module PIPO_dec
+Compiling module PIPO_clr
+Compiling module ADDER
+Compiling module COMP
+Compiling module MUL_datapath
+Compiling module MUL_controlpath
+Compiling module MUL
+Compiling module MUL_tst
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 10 Verilog Units
+Built simulation executable C:/Users/Divyesh/Desktop/HDL PROJECT/Project 1/MUL/MUL_tst_isim_beh.exe
+Fuse Memory Usage: 28088 KB
+Fuse CPU Usage: 406 ms
